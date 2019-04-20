@@ -1,0 +1,24 @@
+#slct {
+       height: 40px;
+       width: 350px;
+}
+#search{
+        height: 55px;
+        width: 400px;
+}
+#btn{
+     height: 40px;
+
+
+}
+
+button{
+    height: 60px;
+    width: 100px;
+}
+body{
+    background-color: bisque;
+
+
+
+}
